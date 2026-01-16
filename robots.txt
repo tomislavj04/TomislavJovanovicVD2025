@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
 Disallow: /screenshots/
+          /css/*
 
 Sitemap: https://tomislavj04.github.io/TomislavJovanovicVD2025/sitemap.xml
+
 
