@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /screenshots/
 
-Sitemap: https://tvoj-url/sitemap.xml
+Sitemap: https://tomislavj04.github.io/TomislavJovanovicVD2025/sitemap.xml
+
